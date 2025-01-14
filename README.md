@@ -1,4 +1,4 @@
-### Hi there, I'm [Mahathi Rachavelpula] 👋
+### Hi there, I'm Mahathi Rachavelpula 👋
 
 - 🔭 I’m currently working on a personal projects!
 - 🌱 I’m currently learning Data Science and Analytics 
