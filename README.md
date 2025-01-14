@@ -5,6 +5,7 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Give impact to society
 - ⚡ Fun fact: I love blogging, reading books, and drawing
+<br/>
 
 ### Languages and Tools:
 
@@ -22,3 +23,4 @@
 <br />
 <br />
 
+---
