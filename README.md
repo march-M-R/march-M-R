@@ -32,7 +32,7 @@
 
 ---
 [website]: http://audhiaprilliant.github.io/
-[kaggle]: https://www.kaggle.com/audhiaprilliant
-[codechef]: http://codechef.com/users/audhi
-[twitter]: https://twitter.com/audhiaprilliant
+[kaggle]: https://www.kaggle.com/mahatirachavelpula
+[codechef]: http://codechef.com/users/mahati
+[twitter]: https://twitter.com/mahati
 [linkedin]: https://www.linkedin.com/in/mahathi9/
