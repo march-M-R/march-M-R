@@ -31,7 +31,7 @@
 <br />
 
 ---
-[website]: http://audhiaprilliant.github.io/
+[website]: https://www.linkedin.com/in/mahathi9/
 [kaggle]: https://www.kaggle.com/mahatirachavelpula
 [codechef]: http://codechef.com/users/mahati
 [twitter]: https://twitter.com/mahati
