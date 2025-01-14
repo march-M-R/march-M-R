@@ -1,6 +1,6 @@
-### Hi there, I'm [Mahathi Rachavelpula][website] 👋
+### Hi there, I'm [Mahathi Rachavelpula] 👋
 
-- 🔭 I’m currently working on a [personal projects][website]!
+- 🔭 I’m currently working on a [personal projects]!
 - 🌱 I’m currently learning Data Science and Analytics 🤣
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2023 Goals: Give impact to society
@@ -8,11 +8,11 @@
 
 ### Connect with me:
 
-[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt=" | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
-[<img align="left" alt=" | Code Chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
-[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />]
+[<img align="left" alt=" | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />]
+[<img align="left" alt=" | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />]
+[<img align="left" alt=" | Code Chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />]
+[<img align="left" alt=" | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />]
 
 <br />
 
