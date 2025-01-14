@@ -33,6 +33,6 @@
 ---
 [website]: https://www.linkedin.com/in/mahathi9/
 [kaggle]: https://www.kaggle.com/mahatirachavelpula
-[codechef]: http://codechef.com/users/mahati
+[codechef]: http://codechef.com/users/mahathi_9
 [twitter]: https://twitter.com/mahati
 [linkedin]: https://www.linkedin.com/in/mahathi9/
