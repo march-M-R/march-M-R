@@ -32,7 +32,6 @@
 
 ---
 
-[website]: http://audhiaprilliant.github.io/
 [kaggle]: https://www.kaggle.com/audhiaprilliant
 [codechef]: http://codechef.com/users/audhi
 [twitter]: https://twitter.com/audhiaprilliant
