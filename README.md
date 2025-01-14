@@ -1,9 +1,7 @@
-### Hi there, I'm [Audhi Aprilliant][website] 👋
+### Hi there, I'm [Mahathi Rachavelpula] 👋
 
-- 🔭 I’m currently working on a [personal project][website]!
-- 🌱 I’m currently learning Data Science and Analytics 🤣
-- 👯 I’m looking to collaborate with other content creators
-- 🥅 2023 Goals: Give impact to society
+- 🔭 I’m currently working on a personal projects!
+- 🌱 I’m currently learning Data Science and Analytics 
 - ⚡ Fun fact: I love blogging, reading books, and drawing
 
 ### Connect with me:
