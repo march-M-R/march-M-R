@@ -2,7 +2,7 @@
 
 - 🔭 I’m currently working on a personal projects!
 - 🌱 I’m currently learning Data Science and Analytics 
-- ⚡ Fun fact: I love blogging, reading books, and drawing
+- ⚡ Fun fact: I love coding, theatre, drawing and exploring new things.
 
 ### Connect with me:
 
