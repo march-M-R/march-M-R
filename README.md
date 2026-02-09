@@ -1,32 +1,61 @@
+### Hi there, I'm Mahathi Rachavelpula 👋
 <!-- ============================
       Mahathi Rachavelpula
       GitHub Profile README
 ============================= -->
 
+- 🔭 I’m currently working on a personal projects!
+- 🌱 I’m learning Data Science and Analytics 
+- ⚡ Fun fact: I love coding, theatre, drawing and exploring new things.
 <div align="center">
 
+### Connect with me:
 # Hi there, I'm Mahathi Rachavelpula 👋  
 **Data Science • Analytics • Big Data • ML • Cloud**
 
+[<img align="left" alt="mahati" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
+[<img align="left" alt="mahati | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="mahati | Kaggle" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/kaggle.svg" />][kaggle]
+[<img align="left" alt="mahati | Code Chef" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/codechef.svg" />][codechef]
+[<img align="left" alt="mahati | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 🌱 Learning & building end-to-end data products  
 🎭 Theatre | 🎨 Drawing | 💻 Coding | 🌍 Exploring
 
+<br />
 </div>
 
+### Languages and Tools:
 ---
 
 ## 🌐 Socials
 
 <div align="center">
 
+[<img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />][website]
+[<img align="left" alt="R" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/r/r.png" />][website]
+[<img align="left" alt="Microsoft Excel" width="26px" src="https://img.icons8.com/color/452/microsoft-excel-2019--v1.png" />][website]
+[<img align="left" alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />][website]
+[<img align="left" alt="PostgreSQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/postgresql/postgresql.png" />][website]
+[<img align="left" alt="Tableau" width="26px" src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" />][website]
+[<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />][website]
+[<img align="left" alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />][website]
+[<img align="left" alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />][website]
+[<img align="left" alt="HTML5" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />][website]
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/mahathi9/)
 [![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF.svg?style=for-the-badge&logo=Kaggle&logoColor=white)](https://www.kaggle.com/mahatirachavelpula)
 [![CodeChef](https://img.shields.io/badge/CodeChef-5B4638.svg?style=for-the-badge&logo=codechef&logoColor=white)](http://codechef.com/users/mahathi_9)
 [![Twitter](https://img.shields.io/badge/Twitter-000000.svg?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/mahati)
 
+<br />
+<br />
 </div>
 
 ---
+[website]: https://www.linkedin.com/in/mahathi9/
+[kaggle]: https://www.kaggle.com/mahatirachavelpula
+[codechef]: http://codechef.com/users/mahathi_9
+[twitter]: https://twitter.com/mahati
+[linkedin]: https://www.linkedin.com/in/mahathi9/
 
 ## ✨ About Me
 
@@ -99,7 +128,8 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-![](https://github-contributor-stats.vercel.app/api?username=march-M-R&limit=5&theme=dark&combine_all_yearly_contributions=true)
+
+![](https://github-profile-trophy.vercel.app/?username=march-M-R&theme=radical&no-frame=false&no-bg=true&margin-w=8)
 
 </div>
 
@@ -108,7 +138,8 @@
 ## 🔝 Top Contributed Repo
 
 <div align="center">
-![](https://github-contributor-stats.vercel.app/api?username=march-M-R&limit=5&theme=dark&combine_all_yearly_contributions=true&cacheBust=20260208)
+
+![](https://github-contributor-stats.vercel.app/api?username=march-M-R&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
