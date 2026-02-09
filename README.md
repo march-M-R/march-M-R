@@ -99,8 +99,7 @@
 ## 🏆 GitHub Trophies
 
 <div align="center">
-
-![](https://github-profile-trophy.vercel.app/?username=march-M-R&theme=radical&no-frame=false&no-bg=true&margin-w=8)
+![](https://github-contributor-stats.vercel.app/api?username=march-M-R&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 </div>
 
